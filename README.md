@@ -1,0 +1,1 @@
+This Security Audit report was done on the Google CyberSecurity free training course as I used this as a example to showcase my ability to identify vulunibilities, knowledge of using security tools and techniques and the understanding of Secruity frameworks
